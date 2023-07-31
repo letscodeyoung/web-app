@@ -1,3 +1,1 @@
-# Sherrybooking
-# sherry-booking
-# booking-app
+# booking
